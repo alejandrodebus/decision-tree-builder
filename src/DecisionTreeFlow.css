@@ -1,0 +1,57 @@
+.decision-tree-flow {
+    position: relative;
+  }
+  
+  .add-node-button {
+    margin-top: 10px;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .add-node-button:hover {
+    background-color: #0056b3;
+  }
+  
+  .generate-yaml-button {
+    margin-top: 10px;
+    padding: 10px 20px;
+    background-color: #6c757d; /* Color gris para el botón */
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .generate-yaml-button:hover {
+    background-color: #5a6268; /* Gris oscuro al pasar el ratón */
+  }
+  
+  .modal {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 400px;
+    margin: auto;
+  }
+  
+  .modal-overlay {
+    background-color: rgba(0, 0, 0, 0.5);
+  }
+  
+  .save-button {
+    background-color: #28a745; /* Color verde para el botón de guardar */
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+  
+  .save-button:hover {
+    background-color: #218838; /* Color verde oscuro del botón al pasar el ratón */
+  }
