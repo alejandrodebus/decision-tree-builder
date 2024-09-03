@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/decision-tree-builder.git/static/css/main.7f3ea70b.css",
+    "main.js": "/decision-tree-builder.git/static/js/main.e58a12b1.js",
+    "static/js/453.49249525.chunk.js": "/decision-tree-builder.git/static/js/453.49249525.chunk.js",
+    "index.html": "/decision-tree-builder.git/index.html",
+    "main.7f3ea70b.css.map": "/decision-tree-builder.git/static/css/main.7f3ea70b.css.map",
+    "main.e58a12b1.js.map": "/decision-tree-builder.git/static/js/main.e58a12b1.js.map",
+    "453.49249525.chunk.js.map": "/decision-tree-builder.git/static/js/453.49249525.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f3ea70b.css",
+    "static/js/main.e58a12b1.js"
+  ]
+}
