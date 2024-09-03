@@ -1,7 +1,7 @@
 {
   "name": "decision-tree-builder",
   "version": "0.1.0",
-  "private": false,
+  "private": true,
   "homepage": "https://alejandrodebus.github.io/decision-tree-builder.git",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
